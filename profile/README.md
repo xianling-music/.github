@@ -1,5 +1,10 @@
 # 仙灵音乐
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/xianling-music/logo-dark.svg">
+  <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/xianling-music/logo-light.svg" alt="仙灵音乐 · 暮紫音波" width="160">
+</picture>
+
 仙灵音乐是简谱、音乐创作与声音工具的项目组织。
 
 | 产品 | 做什么 | 入口 |

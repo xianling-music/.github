@@ -6,7 +6,7 @@
 
 - **简谱分享** · 收录原创和获准公开的简谱。曲谱目录筹备中。
 - **简谱编辑器** · 在浏览器写谱、试听，支持 MIDI 导入导出和 WAV 导出。 [在线使用](https://jianpu.webkubor.online/) · [开源仓库](https://github.com/webkubor/jianpu-editor)
-- **MuseAV Music** · 把 Suno 作品整理入库、试听归辑，为音乐平台发行做好准备。 [产品展台](https://www.museav.top/ecosystem)
+- **MuseAV Music** · 把 Suno 作品整理入库、试听归辑，为音乐平台发行做好准备。 [独立站](https://music.museav.top/)
 
 ## 相关工具
 

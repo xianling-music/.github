@@ -1,11 +1,21 @@
 # 仙灵音乐
 
+仙灵音乐是简谱、音乐创作与声音工具的项目组织。
+
+**[访问官网 music.museav.top](https://music.museav.top/)**
+
+## 仙灵music
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/xianling-music/logo-dark.svg">
-  <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/xianling-music/logo-light.svg" alt="仙灵音乐 · 暮紫音波" width="160">
+  <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/xianling-music/logo-light.svg" alt="仙灵music · 暮紫音波" width="128">
 </picture>
 
-仙灵音乐是简谱、音乐创作与声音工具的项目组织。
+整理和试听 Suno 作品，管理曲库与发行台账。 [打开工作台预览](https://music.museav.top/#workbench) · [查看更多界面](https://github.com/xianling-music/xianling-music#界面截图)
+
+[![仙灵music 操作台截图](https://raw.githubusercontent.com/xianling-music/xianling-music/main/assets/screenshots/workbench.png)](https://music.museav.top/#workbench)
+
+## 音乐项目
 
 | 产品 | 做什么 | 入口 |
 |---|---|---|

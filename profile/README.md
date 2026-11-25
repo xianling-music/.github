@@ -49,6 +49,12 @@
 
 [了解 VoxFlow](https://github.com/xianling-music/voxflow)
 
+### [仙灵music 工作台](https://github.com/xianling-music/xianling-music)
+
+把音乐生成、曲库试听、专辑整理与发行资料放在一个本地工作台里。源码包含 React 界面、FastAPI 服务和平台同步脚本。
+
+[查看源码与本地运行说明](https://github.com/xianling-music/xianling-music)
+
 ---
 
 [仙灵音乐官网](https://music.museav.top/) · [合作品牌 Museav](https://www.museav.top/)

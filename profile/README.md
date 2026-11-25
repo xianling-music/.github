@@ -1,32 +1,48 @@
 # 仙灵音乐
 
-仙灵音乐是简谱、音乐创作与声音工具的项目组织。
-
-**[访问官网 music.museav.top](https://music.museav.top/)**
-
-## 仙灵music
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/xianling-music/logo-dark.svg">
   <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/xianling-music/logo-light.svg" alt="仙灵music · 暮紫音波" width="128">
 </picture>
 
-整理和试听 Suno 作品，管理曲库与发行台账。 [打开工作台预览](https://music.museav.top/#workbench) · [查看更多界面](https://github.com/xianling-music/xianling-music#界面截图)
+做音乐，也做让音乐创作更自由的工具。
 
-[![仙灵music 操作台截图](https://raw.githubusercontent.com/xianling-music/xianling-music/main/assets/screenshots/workbench.png)](https://music.museav.top/#workbench)
+## 音乐作品
 
-## 音乐项目
+### 《沸腾之雪》
 
-| 产品 | 做什么 | 入口 |
-|---|---|---|
-| **简谱编辑器** | 在网页写谱、试听，支持 MIDI 导入导出和 WAV 导出。 | [在线使用](https://jianpu.webkubor.online/) · [开源仓库](https://github.com/webkubor/jianpu-editor) |
-| **仙灵music** | 整理和试听 Suno 作品，准备音乐平台发行。 | [产品官网](https://music.museav.top/) · [产品资料与 Logo](https://github.com/xianling-music/xianling-music) |
-| **VoxFlow** | 在 Apple Silicon 本机做 TTS、音色设计与音频创作。 | [开源仓库](https://github.com/webkubor/voxflow) |
+风雪与江湖里的故事。**[在网易云音乐听完整专辑](https://music.163.com/#/album?id=361519698)**
 
-## 简谱分享
+🎵 [沸腾之雪](https://music.163.com/#/song?id=3349600888) · [雪沸·命如刃](https://music.163.com/#/song?id=3349019369) · [残雪·杯中冷](https://music.163.com/#/song?id=3348498391)
 
-收录原创与获准公开的简谱，首批曲谱筹备中。
+### 《雪夜无名》
 
-## 合作品牌
+雪夜里的故事。**[在网易云音乐听完整专辑](https://music.163.com/#/album?id=368403271)**
 
-仙灵音乐与 Museav 是合作品牌。 [Museav 官网](https://www.museav.top/)
+🎵 [雪夜无名](https://music.163.com/#/song?id=3364599642) · [照雪的人](https://music.163.com/#/song?id=3364616942) · [落雪](https://music.163.com/#/song?id=3364621271)
+
+## 音乐走进短剧
+
+仙灵音乐的作品用作武侠短剧 **《沸腾之雪》** 的背景音乐。看故事，也听音乐在画面里的样子。
+
+[▶ 在 YouTube 看《沸腾之雪》正片合集](https://www.youtube.com/playlist?list=PLwlelKMz3R8wCVkYdhVawo4qJlcLMbgkH) · [观看世界观先导 MV](https://www.youtube.com/watch?v=moY8csK_i9k)
+
+也可以在 **微信视频号** 和 **小红书** 搜索「沸腾之雪」。
+
+## 音乐创作工具
+
+### [简谱编辑器](https://github.com/webkubor/jianpu-editor)
+
+在浏览器里写简谱、试听和分享，支持 MIDI 导入导出及 WAV 导出。
+
+[在线使用](https://jianpu.webkubor.online/) · [查看源码](https://github.com/webkubor/jianpu-editor)
+
+### [VoxFlow](https://github.com/webkubor/voxflow)
+
+面向 Apple Silicon 的 AI 音频工作台，在本机做文字转语音、声音克隆和音色设计，也支持 Suno 音乐生成。
+
+[了解 VoxFlow](https://github.com/webkubor/voxflow)
+
+---
+
+[仙灵音乐官网](https://music.museav.top/) · [合作品牌 Museav](https://www.museav.top/)

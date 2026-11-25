@@ -51,11 +51,9 @@
 
 ### 仙灵music · Suno 音乐定制
 
-Suno 音乐定制、生成与作品管理项目，正式开发和完整项目在 GitLab 私有仓维护。
+Suno 音乐定制、生成与作品管理项目，在 GitLab 维护。
 
-[GitLab 正式项目（需权限）](https://gitlab.com/webkubor/xianling-music) · [GitHub 公开源码快照](https://github.com/xianling-music/xianling-music)
-
-GitHub 仓用于公开展示与源码快照，不是独立产品，也不代表 GitLab 的最新开发状态。
+[查看 GitLab 项目（私有，需权限）](https://gitlab.com/webkubor/xianling-music)
 
 ---
 

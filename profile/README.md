@@ -11,17 +11,23 @@
 
 ### 《沸腾之雪》
 
+<a href="https://music.163.com/#/album?id=361519698"><img src="https://raw.githubusercontent.com/xianling-music/.github/main/profile/assets/boiling-snow.jpg" alt="沸腾之雪专辑封面，点击试听" width="280"></a>
+
 风雪与江湖里的故事。**[在网易云音乐听完整专辑](https://music.163.com/#/album?id=361519698)**
 
 🎵 [沸腾之雪](https://music.163.com/#/song?id=3349600888) · [雪沸·命如刃](https://music.163.com/#/song?id=3349019369) · [残雪·杯中冷](https://music.163.com/#/song?id=3348498391)
 
 ### 《雪夜无名》
 
+<a href="https://music.163.com/#/album?id=368403271"><img src="https://raw.githubusercontent.com/xianling-music/.github/main/profile/assets/snow-night.jpg" alt="雪夜无名专辑封面，点击试听" width="280"></a>
+
 雪夜里的故事。**[在网易云音乐听完整专辑](https://music.163.com/#/album?id=368403271)**
 
 🎵 [雪夜无名](https://music.163.com/#/song?id=3364599642) · [照雪的人](https://music.163.com/#/song?id=3364616942) · [落雪](https://music.163.com/#/song?id=3364621271)
 
 ## 音乐走进短剧
+
+[![沸腾之雪世界观先导 MV，点击观看](https://raw.githubusercontent.com/xianling-music/.github/main/profile/assets/boiling-snow-mv.jpg)](https://www.youtube.com/watch?v=moY8csK_i9k)
 
 仙灵音乐的作品用作武侠短剧 **《沸腾之雪》** 的背景音乐。看故事，也听音乐在画面里的样子。
 

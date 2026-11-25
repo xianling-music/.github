@@ -49,11 +49,13 @@
 
 [了解 VoxFlow](https://github.com/xianling-music/voxflow)
 
-### [仙灵music 工作台](https://github.com/xianling-music/xianling-music)
+### 仙灵music · Suno 音乐定制
 
-把音乐生成、曲库试听、专辑整理与发行资料放在一个本地工作台里。源码包含 React 界面、FastAPI 服务和平台同步脚本。
+Suno 音乐定制、生成与作品管理项目，正式开发和完整项目在 GitLab 私有仓维护。
 
-[查看源码与本地运行说明](https://github.com/xianling-music/xianling-music)
+[GitLab 正式项目（需权限）](https://gitlab.com/webkubor/xianling-music) · [GitHub 公开源码快照](https://github.com/xianling-music/xianling-music)
+
+GitHub 仓用于公开展示与源码快照，不是独立产品，也不代表 GitLab 的最新开发状态。
 
 ---
 

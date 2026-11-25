@@ -37,17 +37,17 @@
 
 ## 音乐创作工具
 
-### [简谱编辑器](https://github.com/webkubor/jianpu-editor)
+### [简谱编辑器](https://github.com/xianling-music/jianpu-editor)
 
 在浏览器里写简谱、试听和分享，支持 MIDI 导入导出及 WAV 导出。
 
-[在线使用](https://jianpu.webkubor.online/) · [查看源码](https://github.com/webkubor/jianpu-editor)
+[在线使用](https://jianpu.webkubor.online/) · [查看源码](https://github.com/xianling-music/jianpu-editor)
 
-### [VoxFlow](https://github.com/webkubor/voxflow)
+### [VoxFlow](https://github.com/xianling-music/voxflow)
 
 面向 Apple Silicon 的 AI 音频工作台，在本机做文字转语音、声音克隆和音色设计，也支持 Suno 音乐生成。
 
-[了解 VoxFlow](https://github.com/webkubor/voxflow)
+[了解 VoxFlow](https://github.com/xianling-music/voxflow)
 
 ---
 
